@@ -1,0 +1,36 @@
+h1{
+    text-align:center;
+    font-family:sans-serif;
+   }
+  #inp-field{
+     display:flex;
+     justify-content:center;
+    align-items:center;
+    border:3px solid red;
+    border-radius:12px;
+    padding:10px 20px;
+    background-color:lightgreen;
+    margin:10px 5px;
+    height:100px;
+    
+  }
+  #f-out{
+    text-align:center;
+    color:#fff;
+     position:relative;
+     bottom:50px;
+  }
+  #btn{
+     margin:10px 12px;
+      background-color:lightblue;
+      border-radius:10px;
+      }
+  #c-input{
+     border-radius:20px;
+     }
+  #c-input:hover{
+     border:2px solid blue;
+  }
+  label {
+     margin:10px 10px;
+  }
